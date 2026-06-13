@@ -109,4 +109,46 @@ The system is designed to naturally generate:
 	•	Adaptive governance systems
 	•	Long-term societal memory effects
 
-No fixed storyline exists—the world writes itself.
+⚙️ Design Principles
+	•	Emergence over scripting
+	•	Adaptation over static rules
+	•	Feedback loops over linear logic
+	•	Simulation-driven intelligence
+	•	World-first AI integration
+
+⸻
+
+🚧 Current Status
+	•	Early architecture design phase
+	•	Core systems not yet implemented
+	•	Simulation + AI integration under planning stage
+	•	Research and prototyping ongoing
+
+
+⸻civilization-sim/
+│
+├── world_engine/
+│   ├── terrain/
+│   ├── agents/
+│   ├── economy/
+│   ├── simulation/
+│
+├── intelligence_core/
+│   ├── reasoning/
+│   ├── memory/
+│   ├── evaluation/
+│   ├── agent_swarm/
+│
+├── bridge_layer/
+│   ├── data_ingestion/
+│   ├── decision_dispatch/
+│   ├── world_sync/
+│
+├── logs/
+├── runs/
+└── config/
+
+
+🚀 Vision
+
+To create a living simulation where intelligence is not separate from the world it studies, but embedded inside it—constantly learning, evolving, and reshaping civilization itself.
